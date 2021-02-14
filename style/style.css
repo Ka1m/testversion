@@ -5,7 +5,7 @@
 }
 
 .header{
-    background: yellow;
+    background: silver;
     height: 100vh;
     display: flex;
     justify-content: center;
@@ -15,7 +15,7 @@ span{
     font-size: 100px;
     color: white;
     text-transform: uppercase;
-
+    text-shadow: 0 0 40px rgb(57, 57, 226);
 }
 .main{
     background: black;
